@@ -1,4 +1,4 @@
-Day 2:
+# Day 2:
 
 class Solution:
     def rotateArr(self, arr, d):
