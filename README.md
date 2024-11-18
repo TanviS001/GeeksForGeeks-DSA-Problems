@@ -8,4 +8,5 @@
 
 ### Day 2:
 - Rotate Array by d
-- arr[:]=arr[d:]+arr[:d]
+- Cut the array just before d
+- Concatenate part after d (inclusive) and part before d (exclusive)
