@@ -1,3 +1,5 @@
+# Day 1:
+
 class Solution:
     def getSecondLargest(self, arr):
         if len(arr) < 2:
