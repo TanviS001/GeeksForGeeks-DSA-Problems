@@ -1,4 +1,4 @@
-# GeeksForGeeks 160 Days of DSA
+# GeeksForGeeks DSA problems
 
 ### Day 1:
 - Getting second largest element
